@@ -11,7 +11,7 @@ tags:
     - C++
 ---
 
-![プレイ映像](wordnnect.gif)
+<!-- ![プレイ映像](wordnnect.gif) -->
 
 Github: https://github.com/Talisman000
 
