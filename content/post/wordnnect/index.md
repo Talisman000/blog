@@ -11,10 +11,9 @@ tags:
     - C++
 ---
 
-<!-- ![](wordnnect.gif)
+<!-- ![](wordnnect.gif) -->
 
-
-Github: https://github.com/Talisman000 -->
+Github: https://github.com/Talisman000
 
 ## メンバー
 1人
