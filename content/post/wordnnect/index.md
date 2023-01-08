@@ -15,6 +15,8 @@ tags:
 
 Github: https://github.com/Talisman000
 
+### [ダウンロード](https://github.com/Talisman000/bn2022w/releases/download/1.0.0/Wordnnect100Win.zip)
+
 ## メンバー
 1人
 
