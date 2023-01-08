@@ -27,7 +27,7 @@ Github(https://github.com/Talisman000/isFloat)
 - ReSharper
 
 ## 制作期間
-2ヶ月
+2ヶ月(2022/11-2023/01)
 
 ## 第189回　雑談のコーナー
 このゲームは2ヶ月ほどDirectX12と格闘してできたゲームです。
