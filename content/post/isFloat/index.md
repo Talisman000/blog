@@ -16,6 +16,8 @@ Github(https://github.com/Talisman000/isFloat)
 
 ### [ダウンロード](https://github.com/Talisman000/isFloat/releases/download/1.0.0/isFloat100Win.zip)
 
+{{<video src="/mp4/isFloat.mp4">}}
+
 ## これは何？
 このゲームは、DirectX12の学習の成果物です。
 
