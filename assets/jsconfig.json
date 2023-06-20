@@ -3,7 +3,7 @@
   "baseUrl": ".",
   "paths": {
    "*": [
-    "..\\..\\..\\..\\AppData\\Local\\Temp\\hugo_cache\\modules\\filecache\\modules\\pkg\\mod\\github.com\\!cai!jimmy\\hugo-theme-stack\\v3@v3.16.0\\assets\\*"
+    "../../../../../../var/folders/ng/dyz3jbrj0_g6v3vg__hr4plr0000gn/T/hugo_cache_sk/modules/filecache/modules/pkg/mod/github.com/!cai!jimmy/hugo-theme-stack/v3@v3.16.0/assets/*"
    ]
   }
  }
