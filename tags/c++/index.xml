@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C++ on Blog</title><link>https://Talisman000.github.io/blog/tags/c++/</link><description>Recent content in C++ on Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Talisman000.github.io/blog/tags/c++/index.xml" rel="self" type="application/rss+xml"/><item><title>!isFloat</title><link>https://Talisman000.github.io/blog/p/isfloat/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/isfloat/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/isfloat/cover.png" alt="Featured image of post !isFloat" />&lt;div class="video-wrapper">
+&lt;video
+controls
+src="isFloat.mp4"
+>
+&lt;p>
+Your browser doesn't support HTML5 video. Here is a
+&lt;a href="isFloat.mp4">link to the video&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div>
+&lt;p>Github(&lt;a class="link" href="https://github.com/Talisman000/isFloat" target="_blank" rel="noopener"
+>https://github.com/Talisman000/isFloat&lt;/a>)&lt;/p>
+&lt;h3 id="ダウンロードhttpsgithubcomtalisman000isfloatreleasesdownload100isfloat100winzip">&lt;a class="link" href="https://github.com/Talisman000/isFloat/releases/download/1.0.0/isFloat100Win.zip" target="_blank" rel="noopener"
+>ダウンロード&lt;/a>&lt;/h3>
+&lt;h2 id="メンバー">メンバー&lt;/h2>
+&lt;p>1人&lt;/p>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;ul>
+&lt;li>DirectX12&lt;/li>
+&lt;li>XAudio2&lt;/li>
+&lt;li>Visual Studio 2022&lt;/li>
+&lt;li>ReSharper&lt;/li>
+&lt;/ul>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>2ヶ月(2022/11-2023/01)&lt;/p>
+&lt;h2 id="第189回雑談のコーナー">第189回　雑談のコーナー&lt;/h2>
+&lt;p>このゲームは2ヶ月ほどDirectX12と格闘してできたゲームです。&lt;/p>
+&lt;p>製作期間のほとんどはDirectX12の理解に費やしました。山登りみたいな感覚でした。&lt;/p>
+&lt;p>ゲームのロジック部分は、描画処理の実装の間にアイデアを練っておいて、年末年始の間にバーッと実装しました。年末年始は犠牲になりました。&lt;/p>
+&lt;p>サウンドの実装も、waveファイルの仕様を理解するところから始めたので、少し苦労しました。先駆者がいたのが幸いでしたね。&lt;/p>
+&lt;p>無駄に疾走感あるBGMも、実装の傍らアイデアを練っておいて1時間ぐらいで完成させました。こういうのって勢いが大事だと思います。&lt;/p>
+&lt;p>最近C++でゲームを制作する機会が増えましたが、イチからゲームを作るのはUnityで作るのとはまた違った面白さがあって良いですね。Siv3Dの手軽さが結構気に入ったので、もう少しなにか作ろうかなと考えています。&lt;/p>
+&lt;p>最後に、このゲームの制作中、初めてポリゴンが出せた瞬間、複数のオブジェクトを描画出来た瞬間、サウンド周りを実装できた瞬間の合計3回くらい感動しました。ありがとうございます。ありがとうございます。（？）&lt;/p></description></item><item><title>Wordnnect</title><link>https://Talisman000.github.io/blog/p/wordnnect/</link><pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/wordnnect/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/wordnnect/cover.png" alt="Featured image of post Wordnnect" />&lt;div class="video-wrapper">
+&lt;video
+controls
+src="wordnnect.mp4"
+>
+&lt;p>
+Your browser doesn't support HTML5 video. Here is a
+&lt;a href="wordnnect.mp4">link to the video&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div>
+&lt;p>Github: &lt;a class="link" href="https://github.com/Talisman000" target="_blank" rel="noopener"
+>https://github.com/Talisman000&lt;/a>&lt;/p>
+&lt;h3 id="ダウンロードhttpsgithubcomtalisman000bn2022wreleasesdownload100wordnnect100winzip">&lt;a class="link" href="https://github.com/Talisman000/bn2022w/releases/download/1.0.0/Wordnnect100Win.zip" target="_blank" rel="noopener"
+>ダウンロード&lt;/a>&lt;/h3>
+&lt;h2 id="メンバー">メンバー&lt;/h2>
+&lt;p>1人&lt;/p>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;ul>
+&lt;li>Siv3D&lt;/li>
+&lt;li>Visual Studio 2022&lt;/li>
+&lt;li>ReSharper&lt;/li>
+&lt;/ul>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>2日半(2022/12)&lt;/p>
+&lt;h2 id="このゲームについて">このゲームについて&lt;/h2>
+&lt;p>このゲームは、2022年12月に行われたバンダイナムコスタジオの冬季インターンの成果物です。
+多言語に対応したバイナリデータを使用したゲームという条件の元、言葉遊びをテーマにしたゲームを思いついたので、制作しました。&lt;/p>
+&lt;p>制作期間が2日半しかなかったので、おなじ意味を持つ文字同士をつなげて消すという超絶シンプルなゲームになりました。しかし、つなげて消すのが結構気持ちよかったり、ミリしらな言語を勘で当ててみたり、なんやかんやで奥深いゲームになりました。私のお気に入りです。&lt;/p></description></item><item><title>Tulip Garden</title><link>https://Talisman000.github.io/blog/p/tulipgarden/</link><pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/tulipgarden/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/tulipgarden/cover.png" alt="Featured image of post Tulip Garden" />&lt;p>Github(&lt;a class="link" href="https://github.com/Talisman000/tulip" target="_blank" rel="noopener"
+>https://github.com/Talisman000/tulip&lt;/a>)&lt;/p>
+&lt;h3 id="ダウンロードhttpsgithubcomtalisman000tulipreleasesdownloadv100tulipgardenzip">&lt;a class="link" href="https://github.com/Talisman000/tulip/releases/download/v1.00/TulipGarden.zip" target="_blank" rel="noopener"
+>ダウンロード&lt;/a>&lt;/h3>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;ul>
+&lt;li>Unity&lt;/li>
+&lt;/ul>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>1週間 (2020/06)&lt;/p>
+&lt;h2 id="このゲームについて">このゲームについて&lt;/h2></description></item></channel></rss>

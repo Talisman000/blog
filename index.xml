@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog</title><link>https://Talisman000.github.io/blog/</link><description>Recent content on Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Talisman000.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Elpis</title><link>https://Talisman000.github.io/blog/p/elpis/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/elpis/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/elpis/cover.png" alt="Featured image of post Elpis" />&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/0txb1qo1w1k"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;p>kansekai lab. という3名のサークルで製作中のゲームです。&lt;/p>
+&lt;p>&lt;a class="link" href="https://twitter.com/kansekai_lab" target="_blank" rel="noopener"
+>https://twitter.com/kansekai_lab&lt;/a>&lt;/p></description></item><item><title>!isFloat</title><link>https://Talisman000.github.io/blog/p/isfloat/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/isfloat/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/isfloat/cover.png" alt="Featured image of post !isFloat" />&lt;div class="video-wrapper">
+&lt;video
+controls
+src="isFloat.mp4"
+>
+&lt;p>
+Your browser doesn't support HTML5 video. Here is a
+&lt;a href="isFloat.mp4">link to the video&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div>
+&lt;p>Github(&lt;a class="link" href="https://github.com/Talisman000/isFloat" target="_blank" rel="noopener"
+>https://github.com/Talisman000/isFloat&lt;/a>)&lt;/p>
+&lt;h3 id="ダウンロードhttpsgithubcomtalisman000isfloatreleasesdownload100isfloat100winzip">&lt;a class="link" href="https://github.com/Talisman000/isFloat/releases/download/1.0.0/isFloat100Win.zip" target="_blank" rel="noopener"
+>ダウンロード&lt;/a>&lt;/h3>
+&lt;h2 id="メンバー">メンバー&lt;/h2>
+&lt;p>1人&lt;/p>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;ul>
+&lt;li>DirectX12&lt;/li>
+&lt;li>XAudio2&lt;/li>
+&lt;li>Visual Studio 2022&lt;/li>
+&lt;li>ReSharper&lt;/li>
+&lt;/ul>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>2ヶ月(2022/11-2023/01)&lt;/p>
+&lt;h2 id="第189回雑談のコーナー">第189回　雑談のコーナー&lt;/h2>
+&lt;p>このゲームは2ヶ月ほどDirectX12と格闘してできたゲームです。&lt;/p>
+&lt;p>製作期間のほとんどはDirectX12の理解に費やしました。山登りみたいな感覚でした。&lt;/p>
+&lt;p>ゲームのロジック部分は、描画処理の実装の間にアイデアを練っておいて、年末年始の間にバーッと実装しました。年末年始は犠牲になりました。&lt;/p>
+&lt;p>サウンドの実装も、waveファイルの仕様を理解するところから始めたので、少し苦労しました。先駆者がいたのが幸いでしたね。&lt;/p>
+&lt;p>無駄に疾走感あるBGMも、実装の傍らアイデアを練っておいて1時間ぐらいで完成させました。こういうのって勢いが大事だと思います。&lt;/p>
+&lt;p>最近C++でゲームを制作する機会が増えましたが、イチからゲームを作るのはUnityで作るのとはまた違った面白さがあって良いですね。Siv3Dの手軽さが結構気に入ったので、もう少しなにか作ろうかなと考えています。&lt;/p>
+&lt;p>最後に、このゲームの制作中、初めてポリゴンが出せた瞬間、複数のオブジェクトを描画出来た瞬間、サウンド周りを実装できた瞬間の合計3回くらい感動しました。ありがとうございます。ありがとうございます。（？）&lt;/p></description></item><item><title>Wordnnect</title><link>https://Talisman000.github.io/blog/p/wordnnect/</link><pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/wordnnect/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/wordnnect/cover.png" alt="Featured image of post Wordnnect" />&lt;div class="video-wrapper">
+&lt;video
+controls
+src="wordnnect.mp4"
+>
+&lt;p>
+Your browser doesn't support HTML5 video. Here is a
+&lt;a href="wordnnect.mp4">link to the video&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div>
+&lt;p>Github: &lt;a class="link" href="https://github.com/Talisman000" target="_blank" rel="noopener"
+>https://github.com/Talisman000&lt;/a>&lt;/p>
+&lt;h3 id="ダウンロードhttpsgithubcomtalisman000bn2022wreleasesdownload100wordnnect100winzip">&lt;a class="link" href="https://github.com/Talisman000/bn2022w/releases/download/1.0.0/Wordnnect100Win.zip" target="_blank" rel="noopener"
+>ダウンロード&lt;/a>&lt;/h3>
+&lt;h2 id="メンバー">メンバー&lt;/h2>
+&lt;p>1人&lt;/p>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;ul>
+&lt;li>Siv3D&lt;/li>
+&lt;li>Visual Studio 2022&lt;/li>
+&lt;li>ReSharper&lt;/li>
+&lt;/ul>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>2日半(2022/12)&lt;/p>
+&lt;h2 id="このゲームについて">このゲームについて&lt;/h2>
+&lt;p>このゲームは、2022年12月に行われたバンダイナムコスタジオの冬季インターンの成果物です。
+多言語に対応したバイナリデータを使用したゲームという条件の元、言葉遊びをテーマにしたゲームを思いついたので、制作しました。&lt;/p>
+&lt;p>制作期間が2日半しかなかったので、おなじ意味を持つ文字同士をつなげて消すという超絶シンプルなゲームになりました。しかし、つなげて消すのが結構気持ちよかったり、ミリしらな言語を勘で当ててみたり、なんやかんやで奥深いゲームになりました。私のお気に入りです。&lt;/p></description></item><item><title>Gamuse</title><link>https://Talisman000.github.io/blog/p/gamuse/</link><pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/gamuse/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/gamuse/cover.jpg" alt="Featured image of post Gamuse" />&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/Pjy8ZWVAOfc"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="メンバー">メンバー&lt;/h2>
+&lt;ul>
+&lt;li>プログラマー x2&lt;/li>
+&lt;li>サウンド兼グラフィック x1&lt;/li>
+&lt;li>譜面制作支援 x1&lt;/li>
+&lt;li>その他、素材提供いただいた部員 約20名&lt;/li>
+&lt;/ul>
+&lt;h2 id="主にやったこと">主にやったこと&lt;/h2>
+&lt;p>ディレクター&lt;del>言い出しっぺ&lt;/del>、譜面製作、リズムゲーム入力処理、判定処理、プレイ画面、選曲画面の実装等&lt;/p>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;p>Unity&lt;/p>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>6ヶ月(2019/12, 2021/08-2021/11, 2022/09-2022/11)&lt;/p>
+&lt;h2 id="このゲームについて">このゲームについて&lt;/h2>
+&lt;h3 id="ゲームパッドで遊べる音ゲーが作りたい">ゲームパッドで遊べる音ゲーが作りたい&lt;/h3>
+&lt;p>このゲームは、主に私の願望により産まれました。&lt;/p>
+&lt;p>スマホやタブレットの音ゲーは、その表示面積に限界があり、PCの音ゲーは、専用の機材を使わないと、最大限のゲーム体験が得られないものが大半でした。&lt;/p>
+&lt;p>そこで、普段ゲームを遊ぶときのように、コントローラを使った音ゲーを作れないか、と考えました。家でじっくり腰を据えて、音ゲーがしたい…&lt;/p>
+&lt;p>そんなこんなで、『ゲームパッドで遊びやすいリズムゲーム』が誕生しました。&lt;/p>
+&lt;h3 id="開発の歴史">開発の歴史&lt;/h3>
+&lt;p>開発初期段階(2019年12月)では、収録楽曲が4つしかありませんでした。ついでにピコピコ音楽を推していました。&lt;/p>
+&lt;p>2021年に文化祭が対面で開催される（かもしれない）とのことで、コロナ禍で下火になっていたサークル活動に燃料を加えたいな、と思い、Gamuseの本制作に移りました。結局文化祭は対面で開催されず、オンラインでの展示になりましたが、同時期にサークル内募集した楽曲と、yuyu氏制作の『Olynus』とのコラボ楽曲を合わせると、20曲以上もの楽曲が集まり、とても大きなゲームになりました。&lt;/p>
+&lt;p>制作期間が3ヶ月と非常に短い期間だったため、コミュニケーションが取りやすいように最低限のメンバーで開発を行いました。かなり早いスピード感で開発を行えましたが、それでも3ヶ月だけでは間に合わなかった部分も多く、Beta版として公開する形になりました。&lt;/p>
+&lt;p>2022年になると、今度こそ文化祭が対面であるとのことだったので、文化祭に展示するためにデザインを一新し、楽曲を追加したバージョンを制作しました。文化祭のサークル内テーマが『夜明け』だったため、水平線から太陽が登ってくるイメージでデザインしました。カセットを３Dにする、楽曲選択時の演出をより豪華にする、展示用に10分程度で試遊できるような仕様にする、起動時にロゴアニメーションを入れてよりゲームっぽくするなど、アウトゲームを中心に様々な工夫を加えました。&lt;/p>
+&lt;h3 id="今後の展望">今後の展望&lt;/h3>
+&lt;p>PC向けにデザインを変更し、更にボリュームをアップした最終バージョンを2023年までに制作する予定です。就活や研究の進捗次第で左右されるかもです。&lt;/p></description></item><item><title>Archives</title><link>https://Talisman000.github.io/blog/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/archives/</guid><description/></item><item><title>異形の街のアニー</title><link>https://Talisman000.github.io/blog/p/%E7%95%B0%E5%BD%A2%E3%81%AE%E8%A1%97%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%BC/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/%E7%95%B0%E5%BD%A2%E3%81%AE%E8%A1%97%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%BC/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/%E7%95%B0%E5%BD%A2%E3%81%AE%E8%A1%97%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%BC/cover.png" alt="Featured image of post 異形の街のアニー" />&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/Jk8ffwrymo4"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="公式サイトhttpwwwqpicjpannie">&lt;a class="link" href="http://www.qpic.jp/annie" target="_blank" rel="noopener"
+>公式サイト&lt;/a>&lt;/h3>
+&lt;h2 id="メンバー">メンバー&lt;/h2>
+&lt;ul>
+&lt;li>ディレクター兼グラフィック x1&lt;/li>
+&lt;li>プログラマー x1&lt;/li>
+&lt;li>プランナー x1&lt;/li>
+&lt;li>グラフィッカー x2&lt;/li>
+&lt;li>サウンド x1&lt;/li>
+&lt;/ul>
+&lt;h2 id="主にやったこと">主にやったこと&lt;/h2>
+&lt;p>ゲームシステム全般の開発、演出のプランニング&lt;/p>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;p>Unity&lt;/p>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>2年(2018/10-2020/10)&lt;/p></description></item><item><title>Tulip Garden</title><link>https://Talisman000.github.io/blog/p/tulipgarden/</link><pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/tulipgarden/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/tulipgarden/cover.png" alt="Featured image of post Tulip Garden" />&lt;p>Github(&lt;a class="link" href="https://github.com/Talisman000/tulip" target="_blank" rel="noopener"
+>https://github.com/Talisman000/tulip&lt;/a>)&lt;/p>
+&lt;h3 id="ダウンロードhttpsgithubcomtalisman000tulipreleasesdownloadv100tulipgardenzip">&lt;a class="link" href="https://github.com/Talisman000/tulip/releases/download/v1.00/TulipGarden.zip" target="_blank" rel="noopener"
+>ダウンロード&lt;/a>&lt;/h3>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;ul>
+&lt;li>Unity&lt;/li>
+&lt;/ul>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>1週間 (2020/06)&lt;/p>
+&lt;h2 id="このゲームについて">このゲームについて&lt;/h2></description></item><item><title>Links</title><link>https://Talisman000.github.io/blog/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>https://Talisman000.github.io/blog/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/search/</guid><description/></item></channel></rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C# on Blog</title><link>https://Talisman000.github.io/blog/tags/c#/</link><description>Recent content in C# on Blog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Talisman000.github.io/blog/tags/c#/index.xml" rel="self" type="application/rss+xml"/><item><title>Elpis</title><link>https://Talisman000.github.io/blog/p/elpis/</link><pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/elpis/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/elpis/cover.png" alt="Featured image of post Elpis" />&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/0txb1qo1w1k"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;p>kansekai lab. という3名のサークルで製作中のゲームです。&lt;/p>
+&lt;p>&lt;a class="link" href="https://twitter.com/kansekai_lab" target="_blank" rel="noopener"
+>https://twitter.com/kansekai_lab&lt;/a>&lt;/p></description></item><item><title>Gamuse</title><link>https://Talisman000.github.io/blog/p/gamuse/</link><pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/gamuse/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/gamuse/cover.jpg" alt="Featured image of post Gamuse" />&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/Pjy8ZWVAOfc"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="メンバー">メンバー&lt;/h2>
+&lt;ul>
+&lt;li>プログラマー x2&lt;/li>
+&lt;li>サウンド兼グラフィック x1&lt;/li>
+&lt;li>譜面制作支援 x1&lt;/li>
+&lt;li>その他、素材提供いただいた部員 約20名&lt;/li>
+&lt;/ul>
+&lt;h2 id="主にやったこと">主にやったこと&lt;/h2>
+&lt;p>ディレクター&lt;del>言い出しっぺ&lt;/del>、譜面製作、リズムゲーム入力処理、判定処理、プレイ画面、選曲画面の実装等&lt;/p>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;p>Unity&lt;/p>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>6ヶ月(2019/12, 2021/08-2021/11, 2022/09-2022/11)&lt;/p>
+&lt;h2 id="このゲームについて">このゲームについて&lt;/h2>
+&lt;h3 id="ゲームパッドで遊べる音ゲーが作りたい">ゲームパッドで遊べる音ゲーが作りたい&lt;/h3>
+&lt;p>このゲームは、主に私の願望により産まれました。&lt;/p>
+&lt;p>スマホやタブレットの音ゲーは、その表示面積に限界があり、PCの音ゲーは、専用の機材を使わないと、最大限のゲーム体験が得られないものが大半でした。&lt;/p>
+&lt;p>そこで、普段ゲームを遊ぶときのように、コントローラを使った音ゲーを作れないか、と考えました。家でじっくり腰を据えて、音ゲーがしたい…&lt;/p>
+&lt;p>そんなこんなで、『ゲームパッドで遊びやすいリズムゲーム』が誕生しました。&lt;/p>
+&lt;h3 id="開発の歴史">開発の歴史&lt;/h3>
+&lt;p>開発初期段階(2019年12月)では、収録楽曲が4つしかありませんでした。ついでにピコピコ音楽を推していました。&lt;/p>
+&lt;p>2021年に文化祭が対面で開催される（かもしれない）とのことで、コロナ禍で下火になっていたサークル活動に燃料を加えたいな、と思い、Gamuseの本制作に移りました。結局文化祭は対面で開催されず、オンラインでの展示になりましたが、同時期にサークル内募集した楽曲と、yuyu氏制作の『Olynus』とのコラボ楽曲を合わせると、20曲以上もの楽曲が集まり、とても大きなゲームになりました。&lt;/p>
+&lt;p>制作期間が3ヶ月と非常に短い期間だったため、コミュニケーションが取りやすいように最低限のメンバーで開発を行いました。かなり早いスピード感で開発を行えましたが、それでも3ヶ月だけでは間に合わなかった部分も多く、Beta版として公開する形になりました。&lt;/p>
+&lt;p>2022年になると、今度こそ文化祭が対面であるとのことだったので、文化祭に展示するためにデザインを一新し、楽曲を追加したバージョンを制作しました。文化祭のサークル内テーマが『夜明け』だったため、水平線から太陽が登ってくるイメージでデザインしました。カセットを３Dにする、楽曲選択時の演出をより豪華にする、展示用に10分程度で試遊できるような仕様にする、起動時にロゴアニメーションを入れてよりゲームっぽくするなど、アウトゲームを中心に様々な工夫を加えました。&lt;/p>
+&lt;h3 id="今後の展望">今後の展望&lt;/h3>
+&lt;p>PC向けにデザインを変更し、更にボリュームをアップした最終バージョンを2023年までに制作する予定です。就活や研究の進捗次第で左右されるかもです。&lt;/p></description></item><item><title>異形の街のアニー</title><link>https://Talisman000.github.io/blog/p/%E7%95%B0%E5%BD%A2%E3%81%AE%E8%A1%97%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%BC/</link><pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate><guid>https://Talisman000.github.io/blog/p/%E7%95%B0%E5%BD%A2%E3%81%AE%E8%A1%97%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%BC/</guid><description>&lt;img src="https://Talisman000.github.io/blog/p/%E7%95%B0%E5%BD%A2%E3%81%AE%E8%A1%97%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%BC/cover.png" alt="Featured image of post 異形の街のアニー" />&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/Jk8ffwrymo4"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h3 id="公式サイトhttpwwwqpicjpannie">&lt;a class="link" href="http://www.qpic.jp/annie" target="_blank" rel="noopener"
+>公式サイト&lt;/a>&lt;/h3>
+&lt;h2 id="メンバー">メンバー&lt;/h2>
+&lt;ul>
+&lt;li>ディレクター兼グラフィック x1&lt;/li>
+&lt;li>プログラマー x1&lt;/li>
+&lt;li>プランナー x1&lt;/li>
+&lt;li>グラフィッカー x2&lt;/li>
+&lt;li>サウンド x1&lt;/li>
+&lt;/ul>
+&lt;h2 id="主にやったこと">主にやったこと&lt;/h2>
+&lt;p>ゲームシステム全般の開発、演出のプランニング&lt;/p>
+&lt;h2 id="制作環境">制作環境&lt;/h2>
+&lt;p>Unity&lt;/p>
+&lt;h2 id="制作期間">制作期間&lt;/h2>
+&lt;p>2年(2018/10-2020/10)&lt;/p></description></item></channel></rss>
